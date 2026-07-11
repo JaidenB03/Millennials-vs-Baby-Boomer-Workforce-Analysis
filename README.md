@@ -51,4 +51,5 @@ This project was created as part of my business analytics portfolio to demonstra
 
 View the live Tableau dashboard here:
 
-**Tableau Public:** https://public.tableau.com/authoring/MillennialsvsBabyBoomerWorkforceAnalyisis/MillennialsvsBabyBoomersWorkforceAnalysis#1
+**Tableau Public:** https://public.tableau.com/views/MillennialsvsBabyBoomerWorkforceAnalyisis/MillennialsvsBabyBoomersWorkforceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ 
